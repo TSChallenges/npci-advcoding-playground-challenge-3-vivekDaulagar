@@ -46,7 +46,7 @@ orange,8
    └── InventoryManager.java
    ```
 
-4. The starter files include:
+4. The starter files in the `src` folder include:
    - `InventoryManager.java` (Starter code with method stubs)
    - `inventory.txt` (Initial inventory data - can be empty)
 
